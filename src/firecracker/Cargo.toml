@@ -40,7 +40,7 @@ serde = { version = "1.0.228" }
 serde_json = "1.0.145"
 
 [dev-dependencies]
-cargo_toml = "0.22.3"
+cargo_toml = "1.0.0"
 libc = "0.2.177"
 regex = { version = "1.12.2", default-features = false, features = [
   "std",
